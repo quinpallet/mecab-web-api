@@ -8,12 +8,13 @@ MeCab Web API
 
 ## Prerequisites
 
-- Python >= 3.8
+- Python >= 3.9
 - fastapi == 0.63.0
 - uvicorn == 0.13.4
 - mecab-python3 == 1.0.3
 - unidic == 1.0.3
 
+- [NGINX Unit](https://hub.docker.com/r/nginx/unit/)
 - [MeCab](https://taku910.github.io/mecab)
 - [mecab-ipadic-neologd](https://github.com/neologd/mecab-ipadic-neologd)
 - [unidic-py](https://github.com/polm/unidic-py)
