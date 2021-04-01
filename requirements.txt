@@ -1,0 +1,7 @@
+# web-api-server
+fastapi
+uvicorn
+
+# mecab
+mecab-python3
+unidic
